@@ -1,0 +1,190 @@
+{
+    "cars": [
+        {
+            "category": "718",
+            "typeOf": [
+                {
+                    "name": "718 Spyder RS",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 162.338,00 € I.V.A inclusa",
+                            "cavalli": "500 cV",
+                            "accelerazione": "3,4 s",
+                            "velocitaMax": "315 km/h",
+                            "consumoCombinato": "13,2 - 13,2 l/100km",
+                            "path": "../images/0.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "718 Cayman GTS 4.0",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 95.076,00 € I.V.A inclusa",
+                            "cavalli": "400 cV",
+                            "accelerazione": "4,5 s",
+                            "velocitaMax": "293 km/h",
+                            "consumoCombinato": "10,1 - 10,9 l/100km",
+                            "path": "../images/1.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "911",
+            "typeOf": [
+                {
+                    "name": "991 Carrera GTS",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 177.518,00 € I.V.A inclusa",
+                            "cavalli": "541 cV",
+                            "accelerazione": "3,0 s",
+                            "velocitaMax": "312 km/h",
+                            "consumoCombinato": "11,0 - 10,5 l/100km",
+                            "path": "../images/2.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "911 GT3 RS",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 258.263,00 € I.V.A inclusa",
+                            "cavalli": "525 cV",
+                            "accelerazione": "3,2 s",
+                            "velocitaMax": "296 km/h",
+                            "consumoCombinato": "13,4 - 13,4 l/100km",
+                            "path": "../images/3.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Taycan",
+            "typeOf": [
+                {
+                    "name": "Taycan",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 105.530,00 € I.V.A inclusa",
+                            "cavalli": "408 cV",
+                            "accelerazione": "4,8 s",
+                            "velocitaMax": "230 km/h",
+                            "consumoCombinato": "Autonomia 592km",
+                            "path": "../images/4.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Taycan Turbo S",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 217.467,00 € I.V.A inclusa",
+                            "cavalli": "952 cV",
+                            "accelerazione": "2,4 s",
+                            "velocitaMax": "260 km/h",
+                            "consumoCombinato": "Autonomia 634km",
+                            "path": "../images/5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Panamera",
+            "typeOf": [
+                {
+                    "name": "Panamera",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 115.441,00 € I.V.A inclusa",
+                            "cavalli": "353 cV",
+                            "accelerazione": "5,3 s",
+                            "velocitaMax": "272 km/h",
+                            "consumoCombinato": "10,5 - 9,7 l/100km",
+                            "path": "../images/6.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Panamera Turbo E-Hybrid",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 204.343,00 € I.V.A inclusa",
+                            "cavalli": "680 cV",
+                            "accelerazione": "3,2 s",
+                            "velocitaMax": "315 km/h",
+                            "consumoCombinato": "29,9 - 27,6 kWh/100km",
+                            "path": "../images/7.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Macan",
+            "typeOf": [
+                {
+                    "name": "Macan",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 73.762,00 € I.V.A inclusa",
+                            "cavalli": "265 cV",
+                            "accelerazione": "6,4 s",
+                            "velocitaMax": "232 km/h",
+                            "consumoCombinato": "10,7 - 10,1 l/100km",
+                            "path": "../images/8.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macan Turbo",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 121.242,00 € I.V.A inclusa",
+                            "cavalli": "639 cV",
+                            "accelerazione": "3,3 s",
+                            "velocitaMax": "260 km/h",
+                            "consumoCombinato": "20,7 - 18,8 kWh/100km",
+                            "path": "../images/9.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Cayenne",
+            "typeOf": [
+                {
+                    "name": "Cayenne GTS",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 146.789,00 € I.V.A inclusa",
+                            "cavalli": "500 cV",
+                            "accelerazione": "4,7 s",
+                            "velocitaMax": "275 km/h",
+                            "consumoCombinato": "13,3 - 12,6 l/100km",
+                            "path": "../images/10.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Macan Turbo E-Hybrid Coupé",
+                    "characteristics": [
+                        {
+                            "prezzo": "Da 194.849,00 € I.V.A inclusa",
+                            "cavalli": "739 cV",
+                            "accelerazione": "3,7 s",
+                            "velocitaMax": "295 km/h",
+                            "consumoCombinato": "1,7 l/100 km",
+                            "path": "../images/11.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

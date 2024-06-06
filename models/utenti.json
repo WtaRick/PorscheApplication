@@ -1,0 +1,49 @@
+{
+    "utenti": [
+        {
+            "id": "Francesco",
+            "password": "password",
+            "credito": 1
+        },
+        {
+            "id": "Pippo",
+            "password": "password",
+            "credito": 10
+        },
+        {
+            "id": "Gino",
+            "password": "password",
+            "credito": 100
+        },
+        {
+            "id": "Marco",
+            "password": "password",
+            "credito": 1000
+        },
+        {
+            "id": "Luca",
+            "password": "password",
+            "credito": 10000
+        },
+        {
+            "id": "Gioele",
+            "password": "password",
+            "credito": 100000
+        },
+        {
+            "id": "Andrea",
+            "password": "password",
+            "credito": 1000000
+        },
+        {
+            "id": "Mirko",
+            "password": "password",
+            "credito": 10000000
+        },
+        {
+            "id": "Giovanni",
+            "password": "password",
+            "credito": 100000000
+        }
+    ]
+}

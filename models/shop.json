@@ -1,0 +1,46 @@
+{
+    "shop": [
+        {
+            "name": "T-Shirt con stemma Essential",
+            "prezzo": "62,00 €IVA inclusa",
+            "colore": "nero",
+            "consegna": "Tempi di consegna: 3-5 giorni lavorativi",
+            "path": "../images/Shop/0.png"
+        },
+        {
+            "name": "Kit modello Porsche 911 Carrera RS 2.7",
+            "prezzo": "119,00 €IVA inclusa",
+            "colore": "multicolore",
+            "consegna": "Tempi di consegna: 3-5 giorni lavorativi",
+            "path": "../images/Shop/1.png"
+        },
+        {
+            "name": "Porsche eBike Cross Performance EXC 2nd Gen.",
+            "prezzo": "14.599,00 €IVA inclusa",
+            "colore": "blu",
+            "consegna": "Tempi di consegna: 3-5 giorni lavorativi",
+            "path": "../images/Shop/2.png"
+        },
+        {
+            "name": "Berretto con stemma Essential",
+            "prezzo": "31,00 € IVA inclusa",
+            "colore": "bianco",
+            "consegna": "Tempi di consegna: 3-5 giorni lavorativi",
+            "path": "../images/Shop/3.png"
+        },
+        {
+            "name": "Portachiavi con scritta 911 Essential",
+            "prezzo": "40,00 € IVA inclusa",
+            "colore": "Argento",
+            "consegna": "Tempi di consegna: 3-5 giorni lavorativi",
+            "path": "../images/Shop/4.png"
+        },
+        {
+            "name": "Portachiavi con stemma Essential",
+            "prezzo": "36,00 € IVA inclusa",
+            "colore": "nero",
+            "consegna": "Tempi di consegna: 3-5 giorni lavorativi",
+            "path": "../images/Shop/5.png"
+        }
+    ]
+}
